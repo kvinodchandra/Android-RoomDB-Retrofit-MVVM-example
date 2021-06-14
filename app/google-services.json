@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971591935624",
+    "project_id": "crash-test-bf62f",
+    "storage_bucket": "crash-test-bf62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971591935624:android:6d98e4590e1842d4fce13d",
+        "android_client_info": {
+          "package_name": "com.hopeitservice.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971591935624-sq98fm9n7gd0b8t3kuc62ggfdg2q2oeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKr4lZAaE9cUHeQFXe19q0y3tzZ_sUJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971591935624-sq98fm9n7gd0b8t3kuc62ggfdg2q2oeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971591935624:android:cb04df46972cad4dfce13d",
+        "android_client_info": {
+          "package_name": "com.monenybloom.nseapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971591935624-sq98fm9n7gd0b8t3kuc62ggfdg2q2oeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKr4lZAaE9cUHeQFXe19q0y3tzZ_sUJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971591935624-sq98fm9n7gd0b8t3kuc62ggfdg2q2oeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
